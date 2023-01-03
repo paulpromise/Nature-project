@@ -20,6 +20,7 @@ body {
     justify-content: space-between;
     padding: 10px;
     margin: 0px;
+   
 }
 
 .nav-item {
@@ -57,7 +58,7 @@ body {
 /* HERO SECTION */
 
 .hero-text {
-    background: url("hero.jpg");
+    background: url("hero1.jpg");
     background-repeat: no-repeat;
     height: 100vh;
     background-size: cover;
