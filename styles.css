@@ -8,6 +8,16 @@ body {
     
 }
 
+.header {
+    background: linear-gradient(#37af65, #376b5c);
+    padding: 20px;
+}
+
+
+.logo {
+    width: 200px;
+    margin-left: 30px;
+}
 
 .hero-text {
     background: url("hero.jpg");
