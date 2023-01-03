@@ -196,3 +196,8 @@ h4 {
     margin: 150px 0px 0px;
  
 }
+
+#footer p {
+    font-size: 18px;
+    font-weight: 200;
+}
