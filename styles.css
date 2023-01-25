@@ -12,6 +12,9 @@ body {
 
 .header {
     background: linear-gradient(#37af65, #376b5c);
+    position: fixed;
+    top: 0;
+    width: 100%;
  
 }
 
@@ -20,9 +23,7 @@ body {
     justify-content: space-between;
     padding: 10px;
     margin: 0px;
-    position: fixed;
-    top: 0;
-    width: 100%;
+    
    
 }
 
